@@ -19,3 +19,9 @@ Got an idea, or something isn't working? In VoiceWord's tray menu choose Help, t
 ## Licence
 
 VoiceWord is free to use, but it is not open source. This page only holds the installers. The licence terms are shown when you install it.
+
+## For IT teams
+
+Thinking about allowing VoiceWord at work? This page explains what it does on a PC and what it connects to: https://carlycarlyleadams.github.io/VoiceWord-releases/it.html
+
+Privacy policy: https://carlycarlyleadams.github.io/VoiceWord-releases/privacy.html
