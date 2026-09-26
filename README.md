@@ -6,9 +6,9 @@ VoiceWord is a free Windows app that lets you use your computer by talking and l
 
 ## Download
 
-Get the newest version here: https://github.com/CarlyCarlyleAdams/VoiceWord-releases/releases/latest
+VoiceWord is being tested with a small group for now. Ask for an invitation on the website: https://carlycarlyleadams.github.io/VoiceWord-releases/
 
-Download the file that ends in .exe and run it. VoiceWord works on Windows 10 and 11 (64-bit). Once it is installed, it tells you when a new version is ready.
+VoiceWord works on Windows 10 and 11 (64-bit).
 
 ## Support and feedback
 
@@ -18,7 +18,7 @@ Got an idea, or something isn't working? In VoiceWord's tray menu choose Help, t
 
 ## Licence
 
-VoiceWord is free to use, but it is not open source. This page only holds the installers. The licence terms are shown when you install it.
+VoiceWord is free to use, but it is not open source. This page holds the website, and later the installers. The licence terms are shown when you install it.
 
 ## For IT teams
 
