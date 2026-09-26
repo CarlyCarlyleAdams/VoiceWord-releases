@@ -6,7 +6,7 @@ VoiceWord is a free Windows app that lets you use your computer by talking and l
 
 ## Download
 
-VoiceWord is being tested with a small group for now. Ask for an invitation on the website: https://carlycarlyleadams.github.io/VoiceWord-releases/
+VoiceWord is being tested with a small group for now. Ask for an invitation on the website: https://voicewordapp.github.io/
 
 VoiceWord works on Windows 10 and 11 (64-bit).
 
@@ -22,6 +22,6 @@ VoiceWord is free to use, but it is not open source. This page holds the website
 
 ## For IT teams
 
-Thinking about allowing VoiceWord at work? This page explains what it does on a PC and what it connects to: https://carlycarlyleadams.github.io/VoiceWord-releases/it.html
+Thinking about allowing VoiceWord at work? This page explains what it does on a PC and what it connects to: https://voicewordapp.github.io/it.html
 
-Privacy policy: https://carlycarlyleadams.github.io/VoiceWord-releases/privacy.html
+Privacy policy: https://voicewordapp.github.io/privacy.html
